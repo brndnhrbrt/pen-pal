@@ -6,6 +6,11 @@ Pen Pal is an AI powered assistant that will analyze web requests as you conduct
 - Possible attack vectors are highlighted with example payloads.
 - Great at identifying hidden routes and sensitive data that may often be overlooked.
 
+## Presentation
+
+A power point presentation can be found in the presentation folder of this repo.
+[Link to Presentation](./presentation/penpal_presentation.pptx)
+
 ## Adding the Firefox Extension
 
 1. **Open Firefox** and navigate to `about:debugging#/runtime/this-firefox`.
