@@ -1,6 +1,10 @@
 # Pen Pal
 
-Welcome to the Pen Pal project!
+Pen Pal is an AI powered assistant that will analyze web requests as you conduct a penetration test for a web application.
+
+- Findings are automatically displayed in the browser in real time.
+- Possible attack vectors are highlighted with example payloads.
+- Great at identifying hidden routes and sensitive data that may often be overlooked.
 
 ## Adding the Firefox Extension
 
