@@ -1,0 +1,6 @@
+{
+  "TARGET_HOST": "localhost",
+  "TARGET_URL": "http://localhost:3001",
+  "OPENAI_API_KEY": "PUT_OPEN_AI_API_KEY_HERE",
+  "PORT": 9001
+}

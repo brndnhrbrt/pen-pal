@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "Pen Pal",
+  "version": "1.0",
+  "description": "Send web request and JS activity to an LLM API for analysis.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "webRequestFilterResponse",
+    "<all_urls>",
+    "tabs",
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "bherbert@triafed.com"
+    }
+  },
+  "sidebar_action": {
+    "default_icon": "icons/star.png",
+    "default_title": "Pen Pal",
+    "default_panel": "sidebar/panel.html"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+U"
+      }
+    }
+  }
+}

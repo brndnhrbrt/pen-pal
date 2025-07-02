@@ -1,0 +1,18 @@
+{
+  "name": "pen-pal-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "PORT=9001 nodemon --inspect index.js --ignore ./data/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "openai": "^5.8.2"
+  }
+}
