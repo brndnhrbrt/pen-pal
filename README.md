@@ -16,4 +16,4 @@ Welcome to the Pen Pal project!
 ## Server Documentation
 
 For information about the server component, please see the `README.md` inside the `pen-pal-server` folder.
-[View the `pen-pal-server` README here.](./pen-pal-server/README.md)
+[View the pen-pal-server README here.](./pen-pal-server/README.md)
