@@ -8,8 +8,7 @@ Pen Pal is an AI powered assistant that will analyze web requests as you conduct
 
 ## Presentation
 
-A power point presentation can be found in the presentation folder of this repo.
-[Link to Presentation](./presentation/penpal_presentation.pptx)
+A power point presentation is available to download in [the presentation folder.](./presentation/penpal_presentation.pptx)
 
 ## Adding the Firefox Extension
 
